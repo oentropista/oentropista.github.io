@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title></title>
+<description>Cultura Digital, Cibercultura, Comunicação e publicações diversas</description>
+<link></link>
+<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+
+<item>
+<title>My post</title>
+
+
+<description></description>
+
+<pubDate>Sat, 05 Sep 2015 00:00:00 -0300</pubDate>
+<link>/my-first-post</link>
+<guid isPermaLink="true">/my-first-post</guid>
+</item>
+
+</channel>
+</rss>
