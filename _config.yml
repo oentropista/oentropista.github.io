@@ -3,7 +3,7 @@ email: asa.art@riseup.net
 description: "Cultura Digital, Cibercultura, Comunicação e publicações diversas"
 
 markdown: redcarpet
-highlighter: null
+highlighter: pygments
 permalink: /:title
 
 url:
